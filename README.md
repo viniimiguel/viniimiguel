@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Vinicius Miguel 👋👋
 https://viniportifolio.netlify.app
 
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniimiguel&show_icons=true&theme=radical)
@@ -14,5 +15,10 @@ https://viniportifolio.netlify.app
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+    
+</div>
+</br> 
+<div>
+    <p  align="center"> Visitantes: <img align="center" src="https://profile-counter.glitch.me/viniimiguel/count.svg"/> 
 </div>
 

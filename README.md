@@ -1,5 +1,4 @@
 ### Olá! Eu sou o Vinicius Miguel 👋👋
-https://viniportifolio.netlify.app
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)

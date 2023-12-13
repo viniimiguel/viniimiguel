@@ -1,12 +1,30 @@
-### Olá! Eu sou o Vinicius Miguel 👋👋
+
+👋 Olá! Sou um apaixonado programador especializado em Automação Robótica de Processos (RPA), mergulhando nas complexidades da automação para simplificar tarefas. Minhas ferramentas de escolha? C++ e Python!
+
+
+<img align="right" alt="GIF" src="https://github.com/viniimiguel/viniimiguel/assets/144070822/9b13b431-e075-4b56-bf1d-c84328f02add" width="500"/>
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)
+<hr>
 
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniimiguel&show_icons=true&theme=radical)
+🚀 Habilidades:
 
-### Tecnologias Que uso no meu dia
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniimiguel&hide_progress=true)
+
+
+
+🤖 Automação Robótica de Processos (RPA)
+
+💻 C++ | Python!
+
+🌐 Desenvolvimento Web
+
+<hr>
+
+
+<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=viniimiguel&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Quadrified's stats" />
+
+<img align="rigth" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=viniimiguel&layout=compact&theme=tokyonight" alt="Quadrified's stats" />
 <div style= "display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>

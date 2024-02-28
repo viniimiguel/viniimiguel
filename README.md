@@ -13,7 +13,7 @@
 
 
 
-🤖 Automação Robótica de Processos (RPA)
+🤖 Visão computacional
 
 💻 C++ | Python!
 

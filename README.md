@@ -17,7 +17,7 @@
 
 💻 C++ | Python!
 
-🌐 Desenvolvimento Web
+🌐 BackEnd
 
 <hr>
 

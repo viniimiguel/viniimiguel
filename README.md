@@ -1,6 +1,5 @@
 
-👋 Olá! sou um programador especializado em Back end e Visão computacional. Minhas ferramentas de escolha? C++, java e python!
-
+👋 Olá! sou um programador especializado em Backend.
 
 <img align="right" alt="GIF" src="https://github.com/viniimiguel/viniimiguel/assets/144070822/9b13b431-e075-4b56-bf1d-c84328f02add" width="500"/>
 
@@ -15,7 +14,7 @@
 
 🤖 Visão computacional
 
-💻 C++ | Python!
+💻 Java | C++ | Python!
 
 🌐 BackEnd
 

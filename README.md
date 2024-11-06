@@ -1,5 +1,5 @@
 
-👋 Olá! sou um programador especializado em Backend.
+👋 Olá! sou Desenvolvedor de software especializado em Backend.
 
 <img align="right" alt="GIF" src="https://github.com/viniimiguel/viniimiguel/assets/144070822/9b13b431-e075-4b56-bf1d-c84328f02add" width="500"/>
 
@@ -8,11 +8,6 @@
 <hr>
 
 🚀 Habilidades:
-
-
-
-
-🤖 Visão computacional
 
 💻 Java | C++ | Python!
 

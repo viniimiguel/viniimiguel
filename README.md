@@ -1,37 +1,39 @@
+<h1 align="left">Hi there!</h1>
 
-👋 Olá! sou Desenvolvedor de software especializado em Backend.
+<p align="left">
+  My name is Vinicius, I'm a software developer from Brazil.
+</p>
 
-<img align="right" alt="GIF" src="https://github.com/viniimiguel/viniimiguel/assets/144070822/9b13b431-e075-4b56-bf1d-c84328f02add" width="500"/>
+<h2 align="left">About me</h2>
 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)
-<hr>
-
-🚀 Habilidades:
-
-💻 Java | C++ | Python!
-
-🌐 BackEnd
-
-<hr>
-
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <!-- About Me Content -->
+  <div>
+    <p align="left">
+      👾 <b>Creating bugs since</b>: 2021<br>
+      🎯 <b>Goals</b>: Learn english<br>
+      🎲 <b>Fun fact</b>: I like to play Tibia
+    </p>
+  </div>
+  <!-- 8-bit Charmander GIF -->
+  <img
+    src="https://github.com/viniimiguel/viniimiguel/assets/144070822/9b13b431-e075-4b56-bf1d-c84328f02add"
+    alt="Charmander 8-bit"
+    style="height: 200px; border-radius: 8px;"
+  />
 </div>
 
-<hr>
+<h2 align="left">I code with</h2>
 
-
-<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=viniimiguel&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Quadrified's stats" />
-
-<img align="rigth" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=viniimiguel&layout=compact&theme=tokyonight" alt="Quadrified's stats" />
-</br> 
-<div>
-    <p  align="center"> Visitantes: <img align="center" src="https://profile-counter.glitch.me/viniimiguel/count.svg"/> 
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="35" alt="selenium logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" />
+    <img src="https://cdn.simpleicons.org/linux/FCC624" height="35" alt="linux logo" />
 </div>
-

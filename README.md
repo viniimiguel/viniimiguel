@@ -1,7 +1,7 @@
 <h1 align="left">Hi there!</h1>
 
 <p align="left">
-  My name is Vinicius, I'm a software developer from Brazil.
+  My name is Vinicius, I'm a software developer from Brazil and I'm back-end developer.
 </p>
 
 <h2 align="left">About me</h2>

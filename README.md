@@ -17,7 +17,7 @@
     <p align="left">
       👾 <b>Creating bugs since</b>: 2021<br>
       🎯 <b>Goals</b>: Learn english<br>
-      🎲 <b>Fun fact</b>: I like play games
+      🎲 <b>Fun fact</b>: I like play to games
     </p>
   </div>
   <!-- 8-bit Charmander GIF -->

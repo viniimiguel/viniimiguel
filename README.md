@@ -1,8 +1,5 @@
 <h1 style="margin: 0; font-size: 24px; display: flex; align-items: center;">
   Hi there! 
-  <a href="https://www.linkedin.com/in/viniimiguel" target="_blank" style="margin-left: 15px;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
 </h1>
 
 <p align="left">
